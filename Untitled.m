@@ -95,17 +95,17 @@ hold off;
 c1 = smooth(TLeftSimple.Value);
 c2 = smooth(TLeftSimple.Diff);
 
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
-c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
+%c1 = smooth(c1);
 
 cxL = TLeftSimple.Time;
 cyL = c1;
